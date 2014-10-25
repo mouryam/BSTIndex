@@ -1,6 +1,7 @@
 BSTIndex
-One of my class's last project using Binary Search Tree that I did.
 ========
+One of my class's last project using Binary Search Tree that I did.
+
 Binary Search Tree to parse through IMDB's actors and movies.
 
 The goal is to quickly find the information associated with an actor (or a movie), based on the movie or
